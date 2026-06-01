@@ -42,5 +42,3 @@ Deploy on Vercel or Netlify for free.
 - localStorage persistence
 - Responsive design
 - Micro-interactions
-
-Built by Rohith Viswanathan
