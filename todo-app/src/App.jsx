@@ -33,7 +33,7 @@ function App() {
     <div className="min-h-screen bg-gray-100 dark:bg-gray-900 transition-colors">
       <ThemeToggle isDark={isDark} onToggle={() => setIsDark(!isDark)} />
       
-      <div className="container mx-auto px-4 py-8 max-w-2xl">
+      <div className="container mx-auto px-4 py-8 max-w-3xl">
         <motion.div
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
